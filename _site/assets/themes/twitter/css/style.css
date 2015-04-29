@@ -29,7 +29,9 @@ body {
 img {
   max-width: 100%;
 }
-
+.span10 > a {
+  color: #338888;
+}
 /* post.html side-nav */
 .post-nav-title {
   line-height: 22px;
