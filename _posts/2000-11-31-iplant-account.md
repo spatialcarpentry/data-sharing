@@ -1,5 +1,5 @@
 --- 
-title: "iPlant Collaborative Account-sharing"
+title: "Create iPlant Collaborative Account"
 category: Data Sharing Services
 layout: post
 tagline: 
