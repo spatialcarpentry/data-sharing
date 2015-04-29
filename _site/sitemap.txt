@@ -8,4 +8,7 @@ http://spatialcarpentry.github.io/rss.xml
 http://spatialcarpentry.github.io/sitemap.txt
 http://spatialcarpentry.github.io/tags.html
 
-http://spatialcarpentry.github.io/lessons/jekyll-introduction
+http://spatialcarpentry.github.io/data%20sharing%20services/data-sharing
+http://spatialcarpentry.github.io/data%20sharing%20services/iplant-account
+http://spatialcarpentry.github.io/data%20sharing%20services/iplant-data
+http://spatialcarpentry.github.io/data%20sharing%20services/aegis-geonode
