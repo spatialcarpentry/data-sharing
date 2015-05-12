@@ -5,9 +5,9 @@ tagline: Leveraging remote servers
 ---
 {% include JB/setup %}
 
-## Goals/Objectives
+## Objectives
 
-After completing this workshop, you will:
+After completing this section, you will:
 
 1. Have a better understanding of sharing spatial data through different services
 2. Have an account created at iPlant Collaborative
